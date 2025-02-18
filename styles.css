@@ -1,0 +1,19 @@
+html{
+    background-color: wheat;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    color: rgb(165, 59, 59);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    font-style: italic;
+}
+
+.main li{
+    list-style: georgian;
+
+}
+li{
+    font-style: italic;
+
+}
