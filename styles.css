@@ -1,19 +1,65 @@
-html{
+body{
+
     background-color: wheat;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-h1{
+a{
+    text-decoration: none;
+    color: black;
+}
+.index-container{
+    box-sizing: border-box;
+
+    text-align: center;
+    background-color: azure;
+    margin: 0 100px 0px 100px;
+    padding: 10px;
+    height: 100%;
+}
+.index-titles{
+
+
+}
+h1 {
+    padding: 5px;
+    text-align: center;
     color: rgb(165, 59, 59);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 3rem;
     font-style: italic;
 }
+h3{
+    padding: auto 20px;
+}
 
+img{
+    border-radius: 5%;
+    display: block;
+    margin: 15px auto;    
+}
 .main li{
-    list-style: georgian;
-
+    list-style: none;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 li{
-    font-style: italic;
+    font-size: large;
+    color: brown;
+}
+.fried-chicken-container{
+
+    background-color: azure;
+    margin: 0 100px 0px 100px;
+    padding: 10px;
+    height: 100%;
+}
+.indian-chicken-container{
+
+    background-color: azure;
+    margin: 0 100px 0px 100px;
+    padding: 10px;
+    height: 100%;
+}
+.directions{
 
 }
