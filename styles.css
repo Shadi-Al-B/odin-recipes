@@ -1,5 +1,5 @@
 body{
-
+    
     background-color: wheat;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -7,19 +7,19 @@ a{
     text-decoration: none;
     color: black;
 }
+
 .index-container{
     box-sizing: border-box;
-
     text-align: center;
     background-color: azure;
     margin: 0 100px 0px 100px;
     padding: 10px;
     height: 100%;
 }
-.index-titles{
+/* .index-titles{
 
 
-}
+} */
 h1 {
     padding: 5px;
     text-align: center;
@@ -46,20 +46,14 @@ li{
     font-size: large;
     color: brown;
 }
-.fried-chicken-container{
+.fried-chicken-container ,.indian-chicken-container,.mexican-tinga-container{
 
     background-color: azure;
     margin: 0 100px 0px 100px;
     padding: 10px;
     height: 100%;
 }
-.indian-chicken-container{
 
-    background-color: azure;
-    margin: 0 100px 0px 100px;
-    padding: 10px;
-    height: 100%;
-}
-.directions{
+/* .directions{
 
-}
+} */
